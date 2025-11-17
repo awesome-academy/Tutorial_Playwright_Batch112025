@@ -8,7 +8,6 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
   use: {
-    storageState: 'auth.json',
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
   },
