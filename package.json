@@ -1,0 +1,23 @@
+{
+  "name": "tutorial_playwright_batch112025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanptp-1871/Tutorial_Playwright_Batch112025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lanptp-1871/Tutorial_Playwright_Batch112025/issues"
+  },
+  "homepage": "https://github.com/lanptp-1871/Tutorial_Playwright_Batch112025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
